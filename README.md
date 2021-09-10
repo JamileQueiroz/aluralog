@@ -2,10 +2,10 @@
 Alura Challenge BI: Creating a logistics dashboard on Power BI
 
 
-Logistics managers need to constantly monitor her department's metrics to make the best decisions due to mainly transportation market is facing some changes during the pandemic period.
+Logistics managers need to constantly monitor their department's metrics to make the best decisions specially due to the fact that the transportation market is facing some changes during the pandemic period.
 
 
-Logistics metrics and their results are presented on a dashboard Power BI to help this sector in a suppositional company that we named AluraLog.
+Logistics metrics and their results are presented on a dashboard Power BI to help this sector in a fictional company named AluraLog.
 
 Four databases are provided in CSV format:
 orders - contains the record of all orders placed by customers. (in Portuguese: tabela pedidos)
@@ -17,7 +17,7 @@ Logistics metrics:
 
 Delivered Order: number of orders delivered within time limit (in Portuguese: Entregas dentro do prazo)
 Delays: Number of orders delivered out of time limit (in Portuguese: Entregas atrasadas)
-S2D - Ship to door: time it takes to pick and delivery orders
+S2D - Ship to door: time it takes to pick and deliver orders
 Incidents: Number of orders with delay and not delivered (in Portuguese: Ocorrências)
 Available vehicles: Number of available vehicles to shipping (in Portuguese: Veículos disponíveis para entrega)
 
@@ -51,6 +51,6 @@ Faturamento = [Quantidade]*[Valor Produto]
 
 
 
-You can have a visualisation of these metrics to each State (Brazil), type of vehicle, and Product category a long last three years. 
+You can visualize these metrics to each State (Brazil), type of vehicle, and Product category for the past three years. 
 
 Access to Dashboard on Power BI web: https://app.powerbi.com/view?r=eyJrIjoiNzZkZGEyZmUtNWQ4YS00NjQwLTgwYzktZWQ4ZTFhY2Q2OGYyIiwidCI6ImY1YTgxMzY2LWVjOWQtNDdhZC05YThmLWI0MWFkZjRlOTRmOCIsImMiOjl9&pageName=ReportSection
