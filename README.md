@@ -53,4 +53,4 @@ Faturamento = [Quantidade]*[Valor Produto]
 
 You can visualize these metrics to each State (Brazil), type of vehicle, and Product category for the past three years. 
 
-Access to Dashboard on Power BI web: https://app.powerbi.com/view?r=eyJrIjoiNzZkZGEyZmUtNWQ4YS00NjQwLTgwYzktZWQ4ZTFhY2Q2OGYyIiwidCI6ImY1YTgxMzY2LWVjOWQtNDdhZC05YThmLWI0MWFkZjRlOTRmOCIsImMiOjl9&pageName=ReportSection
+Access to Dashboard on Power BI web:  https://app.powerbi.com/view?r=eyJrIjoiNzZkZGEyZmUtNWQ4YS00NjQwLTgwYzktZWQ4ZTFhY2Q2OGYyIiwidCI6ImY1YTgxMzY2LWVjOWQtNDdhZC05YThmLWI0MWFkZjRlOTRmOCIsImMiOjl9&pageName=ReportSection
